@@ -1,6 +1,6 @@
 credentials = {
 	"host": "localhost",
-	"user": "liljack",
-	"password": "camillo01",
-	"database": "playlist_converter",
+	"user": "<mysql_username>",
+	"password": "<mysql_user_password>",
+	"database": "<mysql_db_name>",
 }
