@@ -1,4 +1,4 @@
-# Playlist Converter DOCS
+# Playlist Converter
 
 ![logo](https://routenote.com/blog/wp-content/uploads/2017/12/if_spotify_then_deezer.png)
 
@@ -31,6 +31,8 @@ Questa classe contiene i seguenti metodi:
 
 Per migliorare l'aspetto grafico ho aggiunto una funzione nel file __init__.py della classe progress scaricata da internet
 che mi permettesse di aggiornare il messaggio a lato sinstro della progress bar in modo da poterci inserire la traccia corrente che stava trasferendo.
+
+Questo progetto è stata la tesi per la maturità 2019/2020
 
 La funzione e' questa:
 ```
